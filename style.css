@@ -53,7 +53,7 @@ section#banner-sec{
     height: 350px;
 }
 .ban-h1{
-    font-family: Elephant;
+    font-family: "Audiowide", sans-serif;
     margin: 150px 0px 0px 50px;
 }
 .span-the{
@@ -514,7 +514,7 @@ a.sign{
 }
 .h2-start{
     color: aliceblue;
-    font-family: Freestyle Script;
+    font-family: "Sofia", sans-serif;
     margin: 100px 0px 30px 0px;
     font-size: 70px;
 }

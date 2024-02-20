@@ -1,0 +1,530 @@
+/* login section*/
+section#login-sec{
+    background-color: azure;
+}
+a.navbar-brand{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+a.nav-link{
+    color:black;
+    text-align: right;
+}
+.zola{
+    color: black;
+}
+.start-button{
+    border-radius: 20px !important;
+}
+.login{
+    margin: 5px;
+    color: black !important;
+    text-decoration: none;
+}
+
+
+
+
+
+/* offer section */
+
+section#offer-sec{
+    background-color: rgb(189, 34, 34);
+}
+.offer-inbox{
+    height: min-content;
+    text-align: center;
+}
+h2.off-h2{
+    font-family: Baskerville Old Face;
+    font-size: larger;
+    color: aliceblue;
+}
+span.span-get{
+    font-size: 30px;
+}
+
+/* banner section */
+section#banner-sec{
+    background-image: url(weddingring.jpg);
+    background-size: cover;
+}
+.banner-inbox{
+    height: 350px;
+}
+.ban-h1{
+    font-family: Elephant;
+    margin: 150px 0px 0px 50px;
+}
+.span-the{
+    padding: 50px;
+}
+.ban-h4{
+    font-family: Calibri;
+    font-size:x-large;
+}
+.span-you{
+    padding: 20px;
+}
+a.syr{
+    color:white;
+    padding: 5px 5px;
+    text-decoration: solid;
+    font-size: 20px;
+    background-color:dodgerblue;
+    margin: 30px 0px 0px 80px;
+    border-radius: 20px;
+}
+
+/* 4th section */
+section#4th-sec{
+
+}
+.fourth-inbox1{
+    /* background-color:hotpink ; */
+    height: min-content;
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+}
+.fourth-inbox2{
+    /* background-color:rgb(110, 58, 84) ; */
+    height: min-content;
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+}
+.fourth-inbox3{
+    /* background-color:rgb(198, 6, 102) ; */
+    height: min-content;
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+}
+
+.fourth-inbox4{
+    /* background-color:rgb(230, 150, 190) ; */
+    height: min-content;
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+}
+img.gift{
+    height: 60px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+img.blender{
+    height: 60px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+img.offer{
+    height: 60px;
+
+}
+img.track{
+    height: 60px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+.h4-inb1{
+    margin: 10px 0px 0px 0px;
+    font-weight: bolder;
+}
+.h6-inb1{
+    margin: 35px 0px;
+    font-weight: 100px;
+}
+.h4-inb2{
+    margin: 10px 0px 0px 0px;
+    font-weight: bolder;
+}
+.h6-inb2{
+    margin: 35px 0px;
+    font-weight: 100px;
+}
+.h4-inb3{
+    margin: 10px 0px 0px 0px;
+    font-weight: bolder;
+}
+.h6-inb3{
+    margin: 35px 0px;
+    font-weight: 100px;
+}
+.h4-inb4{
+    margin: 10px 0px 0px 0px;
+    font-weight: bolder;
+}
+.h6-inb4{
+    margin: 10px 0px;
+    font-weight: 100px;
+}
+
+.span-handy{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+.span-honey{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+.span-best{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.span-guest{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+/* brand section */
+
+
+section#brand-sec{
+    background-color: rgb(70, 70, 141);
+    /* height: 500px; */
+}
+.brand-inbox{
+    text-align: center;
+}
+.h2-brand{
+     color: antiquewhite;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+.line{
+    background-color:rgb(189, 34, 34);
+    width: 13%;
+    height: 2px;
+    margin:auto;
+}
+.h5-brand{
+    color:antiquewhite;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.img-mixblend{
+    height: 200px;
+    margin-top: 20px;
+    width: 100%;
+}
+.img-kitchen{
+    height: 200px;
+    margin-top: 20px;
+    width: 100%;
+}
+.img-cakemixer{
+    height: 200px;
+    margin-top: 20px;
+    width: 100%;
+}
+.img-dinner{
+    height: 200px;
+    margin-top: 20px;
+    width: 100%;
+}
+.cuisin{
+    background-color: antiquewhite;
+    width: 100%;
+    text-align: center;
+    color: rgb(70, 70, 141) ;
+    font-size: 30px;
+    font-family: Cooper;
+}
+.oxo{
+    background-color: antiquewhite;
+    width: 100%;
+    text-align: center;
+    color: rgb(70, 70, 141) ;
+    font-size: 30px;
+    font-family: cooper;
+}
+.kitchenaid{
+    background-color: antiquewhite;
+    width: 100%;
+    text-align: center;
+    color: rgb(70, 70, 141) ;
+    font-size: 30px;
+    font-family: Cooper;
+}
+.crate{
+    background-color: antiquewhite;
+    width: 100%;
+    text-align: center;
+    color: rgb(70, 70, 141) ;
+    font-size: 30px;
+    font-family: Cooper;
+}
+.brand-inboxlink{
+    text-align: center;
+    margin: 50px;
+}
+a.syr2{
+    color:white;
+    padding: 5px 0px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color:dodgerblue;
+    border-radius: 20px;
+}
+
+
+ /* Rated section */
+
+ section#rate-sec{
+
+ }
+ .rate-inbox{
+    text-align: center;
+ }
+ .h2-rate{
+    font-weight: bolder;
+    margin-top: 100px;
+ }
+ .h5-join{
+    font-size: 15px;
+    margin-top: 10px;
+ }
+ .span-over{
+    font-weight: bold;
+ }
+ .rate-inbox1{
+    text-align: center;
+    margin: 20px 0px 50px 0px;
+
+ }
+ .img-cup1{
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 50px;
+ }
+ .rate-inbox2{
+    text-align: center;
+    margin: 20px 0px 50px 0px;
+
+ }
+ .img-cup2{
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 50px;
+ }
+ .rate-inbox3{
+    text-align: center;
+    margin: 20px 0px 50px 0px;
+
+ }
+ .img-cup3{
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 50px;
+ }
+ .img-star{
+    height: 30px;
+    margin-top: 5px;
+ }
+
+ .h4-name{
+    font-family: Arial Rounded MT;
+    font-size: 20px;
+}
+
+/* create wedding section  */
+section#create-sec{
+    background-color: rgb(224, 184, 204);
+    /* height: 400px; */
+}
+.create-inbox1{
+    text-align: center;
+    height: min-content;
+    margin: 30px 0px 50px 0px;
+}
+.img-invitation{
+    /* height: 300px; */
+     rotate: 15deg;
+    margin-top: 30px;
+    width: 180px;
+}
+.h2-website{
+    font-weight: bolder;
+    margin-top: 100px;
+}
+.span-free{
+    color: rgb(189, 34, 34);
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+.h5-choose{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.span-100{
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: red;
+    
+}
+a.gs{
+    color:white;
+    padding: 5px 0px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color:dodgerblue;
+    border-radius: 20px;
+    /* margin-bottom:  20px; */
+}
+.create-inbox2{
+    padding-bottom: 50px;
+}
+
+
+/* make it easy section */
+
+section#make-sec{
+
+}
+.make-inbox-row1{
+    text-align: center;
+}
+.h2-make{
+    font-weight: bolder;
+    margin-top: 100px;
+}
+
+.make-inbox1-row2{
+    text-align: center;
+    /* background-color: violet; */
+    margin-top: 20PX;
+}
+img.track1{
+    height: 60px;
+    /* background-color: antiquewhite; */
+    /* border-radius: 20px; */
+}
+
+
+
+.h4-ship{
+    margin: 10px 0px 0px 0px;
+    font-weight: bolder;
+}
+.h6-ship{
+    margin-top:10px;
+    font-weight: 100px;
+}
+.make-inbox2-row2{
+    text-align: center;
+    /* background-color: violet; */
+    margin-top: 20PX;
+}
+img.exchange{
+    height: 60px;
+}
+.h4-smart{
+    margin: 10px 0px 0px 0px;
+    font-weight: bolder;
+}
+.h6-smart{
+    margin-top:30px;
+    font-weight: 100px;
+}
+.make-inbox3-row2{
+    text-align: center;
+    /* background-color: violet; */
+    margin-top: 20PX;
+}
+
+img.dollar{
+    height: 60px;
+}
+.h4-price{
+    margin: 10px 0px 0px 0px;
+    font-weight: bolder;
+}
+.h6-price{
+    margin-top:30px;
+    font-weight: 100px;
+}
+.make-inbox1-row3{
+    text-align: center;
+    /* background-color: violet; */
+    margin: 20PX 0px 50px 0px;
+}
+
+img.pig-money{
+    height: 60px;
+}
+.h4-low{
+    margin: 10px 0px 0px 0px;
+    font-weight: bolder;
+}
+.h6-low{
+    margin-top:30px;
+    font-weight: 100px;
+}
+.make-inbox2-row3{
+    text-align: center;
+    /* background-color: violet; */
+    margin: 20PX 0px 50px 0px;
+}
+
+img.note{
+    height: 60px;
+}
+.h4-thank{
+    margin: 10px 0px 0px 0px;
+    font-weight: bolder;
+}
+.h6-thank{
+    margin-top:30px;
+    font-weight: 100px;
+}
+.make-inbox3-row3{
+    text-align: center;
+    /* background-color: violet; */
+    margin: 20PX 0px 50px 0px;
+}
+
+img.telle{
+    height: 60px;
+}
+.h4-top{
+    margin: 10px 0px 0px 0px;
+    font-weight: bolder;
+}
+.h6-top{
+    margin-top:30px;
+    font-weight: 100px;
+}
+    /* start registry section */
+section#start-sec{
+ background-color: rgb(70, 70, 141) ;
+  /* height: 500px; */
+ }
+.start-inbox{
+    text-align: center;
+    margin: 50px;
+}
+a.sign{
+    color:white;
+    padding: 5px 0px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color:dodgerblue;
+    border-radius: 20px;
+    
+}
+.h2-start{
+    color: aliceblue;
+    font-family: Freestyle Script;
+    margin: 100px 0px 30px 0px;
+    font-size: 70px;
+}
+
+/* final section */
+section#final-sec{
+    background-color: aliceblue;
+}
+.final-inbox{
+    text-align: center;
+    margin: 30px 0px ;
+    font-size: small;
+}
